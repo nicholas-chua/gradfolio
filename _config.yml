@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Nicholas Chua
-description: subtitle | affiliations | motto
+description: Data Ninja | OMSCS Student | Ad Tech 
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: https://nicholas-chua.github.io #custom url to be used instead of GitHub repository
+email: nicholaschua05@gmail.com #
 
 
 highlighter: rouge
@@ -18,9 +18,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
+twitter: "chua_mh"
+linkedin: "chuanicholas"
+github: "nicholas-chua"
 researchgate: "#"
 orcid: "#"
 
